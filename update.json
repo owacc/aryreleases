@@ -1,0 +1,9 @@
+{
+  "notes": {
+    "en": "Test update"
+  },
+  "sha256": "73b4aa1576cfc0d54a9f6c92566bcdd1bfc455bffa48d52e13074b93fca5b19f",
+  "sig": "mgcPe/d6JKMK2cefP8Sh6HmZMNRKWmn4ewTwySAITjEzLvcKTKbYV+bLQgPmuYht5O13ibfZ9gP82+x6xoM8Cg==",
+  "url": "https://github.com/owacc/aryreleases/releases/download/v0.5.1/ARY.exe",
+  "version": "0.5.1"
+}
